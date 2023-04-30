@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import quocbao from '../images/quocbao.JPG'
+import quocbao from '../images/2143abae966a4934107b.jpg'
 import fpt from '../images/fpt.png'
 import udemy from '../images/udemy.png'
 import cybersoft from '../images/cybersoft.png'
